@@ -46,3 +46,10 @@ Video: [The Age of Insight](https://www.youtube.com/watch?v=TA_tNh0LMEs)
 - [BuzzFeed News Data Request Template](https://docs.google.com/document/d/1Lh3n3rlmYOs7CvACk-kFayihTyowyx-mU1uYTp8UyWg/edit)
 
 
+### Lecture 2: Census
+
+I'll be doing most of this class in real-time but there are a few links you might want to have on-hand.
+
+- [NYC Planning Population FactFinder](https://popfactfinder.planning.nyc.gov/)
+- [NYC Planning Prepared NTA data](https://www1.nyc.gov/site/planning/planning-level/nyc-population/american-community-survey.page)
+- [HUD Homelessness point-in-time data](https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/)
